@@ -42,7 +42,8 @@
     transition: border 0.3s ease;
 }
 
-.select-theme option {
+.select-theme option,
+.select-language option {
     background-color: rgba(11, 10, 24, 0.992);
     color: white;
     border-radius: 20px;
